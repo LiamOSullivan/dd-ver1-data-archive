@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<carparkData>
+  <Northwest>
+    <carpark name="PARNELL" spaces="94"> </carpark>
+    <carpark name="ILAC" spaces="780"> </carpark>
+    <carpark name="JERVIS" spaces="748"> </carpark>
+    <carpark name="ARNOTTS" spaces="242"> </carpark>
+  </Northwest>
+
+  <Northeast>
+    <carpark name="MARLBORO" spaces="375"> </carpark>
+    <carpark name="ABBEY" spaces="194"> </carpark>
+  </Northeast>
+
+  <Southwest>
+    <carpark name="THOMASST" spaces="217"> </carpark>
+    <carpark name="C/CHURCH" spaces="61"> </carpark>
+  </Southwest>
+
+  <Southeast>
+    <carpark name="SETANTA" spaces="40"> </carpark>
+    <carpark name="DAWSON" spaces="186"> </carpark>
+    <carpark name="TRINITY" spaces="305"> </carpark>
+    <carpark name="GREENRCS" spaces="702"> </carpark>
+    <carpark name="DRURY" spaces="350"> </carpark>
+    <carpark name="B/THOMAS" spaces="276"> </carpark>
+  </Southeast>
+
+  <Timestamp>10:02:08 on Wednesday 06/01/2016</Timestamp>
+</carparkData>
